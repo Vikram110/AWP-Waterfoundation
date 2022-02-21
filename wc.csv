@@ -1,0 +1,333 @@
+Sr. No.,District,Taluka,Village Name
+1,Ahmednagar,Ahmednagar,Sonewadi Chaas
+2,Ahmednagar,Ahmednagar,Sarola Kasar
+3,Ahmednagar,Ahmednagar,Dongargan
+4,Ahmednagar,Ahmednagar,Ranjani
+5,Ahmednagar,Karjat,Pategaon
+6,Ahmednagar,Karjat,Kumbhephal
+7,Ahmednagar,Karjat,Babhulgaon Khalsa
+8,Ahmednagar,Karjat,Patharwadi
+9,Ahmednagar,Parner,Wadner Haveli
+10,Ahmednagar,Parner,Dongarwadi
+11,Ahmednagar,Parner,Kalamkarwadi
+12,Ahmednagar,Parner,Pimpri Jalsen
+13,Ahmednagar,Pathardi,Kasalwadi
+14,Ahmednagar,Pathardi,Ambika Nagar
+15,Ahmednagar,Pathardi,Sakegaon
+16,Ahmednagar,Pathardi,Kherde
+17,Ahmednagar,Sangamner,Kumbharwadi
+18,Ahmednagar,Sangamner,Modhalwadi
+19,Ahmednagar,Sangamner,Kanasewadi
+20,Ahmednagar,Sangamner,Khandarmalwadi
+21,Akola,Akot,Rudhali Pr Khatkali
+22,Akola,Akot,Boris
+23,Akola,Akot,Rambhapur
+24,Akola,Barshitakli,Dhaba
+25,Akola,Barshitakli,Rahit
+26,Akola,Barshitakli,Bhendi Mahal
+27,Akola,Barshitakli,Gorwha
+28,Akola,Barshitakli,Lohagad
+29,Akola,Patur,Raher
+30,Akola,Patur,Tulanga Kh
+31,Akola,Patur,Tandali Bu
+32,Akola,Patur,Jambharun
+33,Akola,Patur,Savargaon
+34,Akola,Telhara,Manabda
+35,Akola,Telhara,Kotha
+36,Akola,Telhara,Zari Bazar
+37,Akola,Telhara,Adgaon Bu
+38,Amravati,Chikhaldara,Motha
+39,Amravati,Chikhaldara,Barugavhan
+40,Amravati,Chikhaldara,Bamadehi
+41,Amravati,Chikhaldara,Kulangana Bu
+42,Amravati,Chikhaldara,Avagad
+43,Amravati,Dharni,Gondwadi
+44,Amravati,Dharni,Bhulori
+45,Amravati,Dharni,Bothara
+46,Amravati,Morshi,Ghodgavhan
+47,Amravati,Morshi,Shirajgaon
+48,Amravati,Morshi,Bhivkundi
+49,Amravati,Morshi,Wagholi
+50,Amravati,Nandgaon Kh,Sukali Gurav
+51,Amravati,Nandgaon Kh,Nimaswada
+52,Amravati,Nandgaon Kh,Mokhad
+53,Amravati,Nandgaon Kh,Pusner
+54,Amravati,Warud,Udapur
+55,Amravati,Warud,Gavhankund-Shekdari
+56,Amravati,Warud,Pimpalkhuta Bu
+57,Amravati,Warud,Manikpur
+58,Amravati,Warud,Jamthi
+59,Aurangabad,Khultabad,Bhadji
+60,Aurangabad,Khultabad,Mamurabad
+61,Aurangabad,Khultabad,Devlana Kh
+62,Aurangabad,Khultabad,Khandi Pimpalgaon
+63,Aurangabad,Phulambri,Vavna
+64,Aurangabad,Phulambri,Mamnabad
+65,Aurangabad,Phulambri,Ranjangaon
+66,Aurangabad,Phulambri,Shahapur
+67,Aurangabad,Phulambri,Wanegaon Kh-Wanegaon Bu
+68,Aurangabad,Vaijapur,Mandki
+69,Aurangabad,Vaijapur,Loni Bu
+70,Aurangabad,Vaijapur,Waghla
+71,Aurangabad,Vaijapur,Pendefal
+72,Aurangabad,Vaijapur,Nalegaon
+73,Beed,Ambajogai,Chandanwadi
+74,Beed,Ambajogai,Hatola
+75,Beed,Ambajogai,Salunkwadi
+76,Beed,Ashti,Kanadi Budruk
+77,Beed,Ashti,Sheri Bu
+78,Beed,Ashti,Pangulgavhan
+79,Beed,Ashti,Lokhandwadi
+80,Beed,Ashti,Saratewadgaon
+81,Beed,Beed,Devaryachiwadi
+82,Beed,Beed,Kalsambar
+83,Beed,Beed,Bakarwadi
+84,Beed,Beed,Mandavkhel
+85,Beed,Beed,Aurangpur
+86,Beed,Beed,Ghat Savli
+87,Beed,Dharur,Sonimoha
+88,Beed,Dharur,Mothewadi
+89,Beed,Dharur,Vharkatwadi
+90,Beed,Dharur,Deothana
+91,Beed,Kaij,Namewadi
+92,Beed,Kaij,Pathra
+93,Beed,Kaij,Nagzari La
+94,Beed,Kaij,Deogaon
+95,Beed,Kaij,Paithan
+96,Beed,Kaij,Avasgaon
+97,Beed,Parli,Indiranagar
+98,Beed,Parli,Limbuta
+99,Beed,Parli,Vantakli
+100,Beed,Parli,Kauthali
+101,Buldhana,Jalgaon Jamod,Nimbhora Kh
+102,Buldhana,Jalgaon Jamod,Palshi Supo
+103,Buldhana,Jalgaon Jamod,Bandapimpal
+104,Buldhana,Jalgaon Jamod,Rajura Kh
+105,Buldhana,Jalgaon Jamod,Nimbhora Bu
+106,Buldhana,Motala,Januna
+107,Buldhana,Motala,Pofali
+108,Buldhana,Motala,Urha
+109,Buldhana,Motala,Lapali
+110,Buldhana,Sangrampur,Savla
+111,Buldhana,Sangrampur,Durgadaitya
+112,Buldhana,Sangrampur,Changefal Bu
+113,Buldhana,Sangrampur,Umra
+114,Buldhana,Sangrampur,Banoda Eklara
+115,Dhule,Dhule,Ajnale
+116,Dhule,Dhule,Mandal
+117,Dhule,Dhule,Bilodi
+118,Dhule,Dhule,Padalde
+119,Dhule,Dhule,Dondwad
+120,Dhule,Dhule,Boris
+121,Dhule,Sindkhed,Malpur
+122,Dhule,Sindkhed,Nimgul
+123,Dhule,Sindkhed,Salve
+124,Hingoli,Kalamnuri,Salegaon
+125,Hingoli,Kalamnuri,Jaroda
+126,Hingoli,Kalamnuri,Navkha
+127,Hingoli,Kalamnuri,Shivni Kh
+128,Jalgaon,Amalner,Nimb
+129,Jalgaon,Amalner,Mehergaon
+130,Jalgaon,Amalner,Dahiwad
+131,Jalgaon,Amalner,Anore
+132,Jalgaon,Amalner,Gandhli
+133,Jalgaon,Chalisgaon,Abhone
+134,Jalgaon,Chalisgaon,Kunzar
+135,Jalgaon,Chalisgaon,Jamda
+136,Jalgaon,Chalisgaon,Borkhede Kh
+137,Jalgaon,Jamner,Mandve Kh
+138,Jalgaon,Jamner,Savatkhede
+139,Jalgaon,Jamner,Rotwad
+140,Jalgaon,Jamner,Chinchkhede Tarf Wakadi
+141,Jalgaon,Jamner,Chincholi Pimpri
+142,Jalgaon,Parola,Kamatwadi
+143,Jalgaon,Parola,Hirapur-Unnad-Tambole
+144,Jalgaon,Parola,Hivarkhede Kh
+145,Jalgaon,Parola,Sabgavhan Pr Amalner-Dagdi Pr Amalner
+146,Jalgaon,Parola,Mondhale Pr Amalner
+147,Jalna,Bhokar,Kolgaon Bu
+148,Jalna,Jafrabad,Chapner
+149,Jalna,Jafrabad,Borgaon Bu
+150,Jalna,Jafrabad,Belora
+151,Jalna,Jafrabad,Kolegaon
+152,Latur,Ausa,Yakatpur
+153,Latur,Ausa,Wagholi
+154,Latur,Ausa,Kininware
+155,Latur,Ausa,Mahadevwadi
+156,Latur,Deoni,Kamaroddinpur (Pandharpur)
+157,Latur,Deoni,Lasona
+158,Latur,Deoni,Honali
+159,Latur,Deoni,Hanchanal
+160,Latur,Deoni,Ambanagar
+161,Latur,Nilanga,Hanumantwadi (A B)
+162,Latur,Nilanga,Dongargaon (Ha)
+163,Latur,Nilanga,Chandoriwadi
+164,Nagpur,Narkhed,Ramthi
+165,Nagpur,Narkhed,Tarikhwadi
+166,Nagpur,Narkhed,Yeranda
+167,Nagpur,Narkhed,Udapur
+168,Nanded,Bhokar,Amdari
+169,Nanded,Bhokar,Pandurna
+170,Nanded,Bhokar,Wakad
+171,Nanded,Loha,Malkapur
+172,Nanded,Loha,Pokhri
+173,Nanded,Loha,Gundewadi
+174,Nanded,Loha,Wadepuri
+175,Nanded,Loha,Haldav
+176,Nandurbar,Nandurbar,Ranale Kh
+177,Nandurbar,Nandurbar,Kothali Kh
+178,Nandurbar,Nandurbar,Tisi
+179,Nandurbar,Nandurbar,Vavad
+180,Nandurbar,Nandurbar,Karli
+181,Nandurbar,Nandurbar,Baldane
+182,Nandurbar,Shahada,Jaynagar
+183,Nandurbar,Shahada,Bhulone
+184,Nandurbar,Shahada,Kolpandhari
+185,Nandurbar,Shahada,Gogapur
+186,Nandurbar,Shahada,Jaam
+187,Nashik,Chandwad,Kalkhode
+188,Nashik,Chandwad,Kanmandale
+189,Nashik,Chandwad,Nimon
+190,Nashik,Chandwad,Nandurtek
+191,Nashik,Chandwad,Bhutyane
+192,Nashik,Sinnar,Wadzire
+193,Nashik,Sinnar,Hivre
+194,Nashik,Sinnar,Patpimpri
+195,Nashik,Sinnar,Chaas
+196,Nashik,Sinnar,Patole
+197,Osmanabad,Kalamb,Kherda
+198,Osmanabad,Kalamb,Pimpri Shiradhon
+199,Osmanabad,Kalamb,Bhatshirpura
+200,Osmanabad,Kalamb,Satephal
+201,Osmanabad,Osmanabad,Walgud
+202,Osmanabad,Osmanabad,Dudhgaon
+203,Osmanabad,Osmanabad,Tugaon
+204,Osmanabad,Osmanabad,Nitali
+205,Parbhani,Gangakhed,Waghdara
+206,Parbhani,Gangakhed,Arbujwadi
+207,Parbhani,Gangakhed,Gunjegaon
+208,Parbhani,Gangakhed,Suppa (Jahangir)
+209,Parbhani,Gangakhed,Dongarjawla
+210,Parbhani,Jintur,Savargaon
+211,Parbhani,Jintur,Sos Tanda
+212,Parbhani,Jintur,Nagapur
+213,Parbhani,Jintur,Dagadchop
+214,Parbhani,Jintur,Brahmangaon
+215,Pune,Baramati,Moralwadi
+216,Pune,Baramati,Kalhati
+217,Pune,Baramati,Sayambachiwadi
+218,Pune,Baramati,Naroli
+219,Pune,Baramati,Supe
+220,Pune,Purandar,Jawalarjun
+221,Pune,Purandar,Udachiwadi
+222,Pune,Purandar,Panwadi
+223,Sangli,Atpadi,Kalewadi
+224,Sangli,Atpadi,Autewadi
+225,Sangli,Atpadi,Hivtad
+226,Sangli,Atpadi,Dhawadwadi
+227,Sangli,Atpadi,Jambhulni
+228,Sangli,Jath,Jalihal Kh
+229,Sangli,Jath,Lavanga
+230,Sangli,Jath,Devnal
+231,Sangli,Jath,Hivre
+232,Sangli,Jath,Lamantanda D B
+233,Sangli,Kavathe-Mahankal,Wagholi
+234,Sangli,Kavathe-Mahankal,Shelkewadi
+235,Sangli,Kavathe-Mahankal,Karalhatti
+236,Sangli,Kavathe-Mahankal,Irali
+237,Sangli,Kavathe-Mahankal,Basappawadi
+238,Sangli,Khanapur Vita,Devnagar
+239,Sangli,Khanapur Vita,Banurgad
+240,Sangli,Khanapur Vita,Kusbawade
+241,Sangli,Khanapur Vita,Vejegaon
+242,Sangli,Tasgaon,Lokarewadi
+243,Sangli,Tasgaon,Sawarde
+244,Sangli,Tasgaon,Kachrewadi
+245,Satara,Khatav,Taraswadi
+246,Satara,Khatav,Kalewadi
+247,Satara,Khatav,Nagnathwadi
+248,Satara,Khatav,Gopuj
+249,Satara,Koregaon,Fadtarwadi
+250,Satara,Koregaon,Nagewadi
+251,Satara,Koregaon,Chilewadi
+252,Satara,Koregaon,Banwadi
+253,Satara,Man,Dhamni
+254,Satara,Man,Shindi Kh
+255,Satara,Man,Panwan
+256,Satara,Man,Mahimangad
+257,Solapur,Barshi,Chincholi (Dhembrewadi)
+258,Solapur,Barshi,Raleras
+259,Solapur,Barshi,Pangaon
+260,Solapur,Barshi,Surdi
+261,Solapur,Karmala,Taratgaon
+262,Solapur,Karmala,Khadki
+263,Solapur,Karmala,Saunde
+264,Solapur,Karmala,Kamone
+265,Solapur,Madha,Jamgaon
+266,Solapur,Madha,Dhanore
+267,Solapur,Madha,Paritewadi
+268,Solapur,Madha,Bhend
+269,Solapur,Mangalwedha,Shirshi
+270,Solapur,Mangalwedha,Nandeshwar
+271,Solapur,Mangalwedha,Jangalgi
+272,Solapur,Mangalwedha,Hajapur
+273,Solapur,Mangalwedha,Dongargaon
+274,Solapur,North Solapur,Wangi
+275,Solapur,North Solapur,Hiraj
+276,Solapur,North Solapur,Gulvanchi
+277,Solapur,North Solapur,Akolekati
+278,Solapur,North Solapur,Ranmasale
+279,Solapur,Sangola,Ekhatpur
+280,Solapur,Sangola,Bhopasewadi
+281,Solapur,Sangola,Rajapur
+282,Wardha,Arvi,Khadki
+283,Wardha,Arvi,Kinhala
+284,Wardha,Arvi,Bajarwada
+285,Wardha,Arvi,Bori
+286,Wardha,Deoli,Malkapur
+287,Wardha,Deoli,Takli Darne
+288,Wardha,Deoli,Irapur
+289,Wardha,Deoli,Sendari
+290,Wardha,Karanja Ghadge,Pardi Heti
+291,Wardha,Karanja Ghadge,Chincholi
+292,Wardha,Karanja Ghadge,Panjragondi
+293,Wardha,Karanja Ghadge,Bangdapur
+294,Wardha,Selu,Jungad
+295,Wardha,Selu,Raipur (Jangali)
+296,Washim,Karanja Lad,Mokhad
+297,Washim,Karanja Lad,Janori
+298,Washim,Karanja Lad,Antarkhed
+299,Washim,Karanja Lad,Jamthi Kh
+300,Washim,Karanja Lad,Umbarda Bazar
+301,Washim,Mangrul Pir,Jamb
+302,Washim,Mangrul Pir,Borwha Bu
+303,Washim,Mangrul Pir,Nagi
+304,Washim,Mangrul Pir,Pimpri Kh
+305,Washim,Mangrul Pir,Januna Bu
+306,Yavatmal,Darwha,Sewadasnagar
+307,Yavatmal,Darwha,Bramhi
+308,Yavatmal,Darwha,Tornala
+309,Yavatmal,Darwha,Kamathwada
+310,Yavatmal,Darwha,Bhulai
+311,Yavatmal,Ghatanji,Undarni
+312,Yavatmal,Ghatanji,Pandhurna Kh
+313,Yavatmal,Ghatanji,Kapasi
+314,Yavatmal,Ghatanji,Rampur
+315,Yavatmal,Kalamb,Taroda
+316,Yavatmal,Kalamb,Sarapdhari
+317,Yavatmal,Kalamb,Savangi Daf
+318,Yavatmal,Kalamb,Taslot
+319,Yavatmal,Kalamb,Pidha
+320,Yavatmal,Ralegaon,Zadgaon
+321,Yavatmal,Ralegaon,Umared
+322,Yavatmal,Ralegaon,Vedshi
+323,Yavatmal,Ralegaon,Dhanora
+324,Yavatmal,Ralegaon,Kinhi J
+325,Yavatmal,Umarkhed,Amdari
+326,Yavatmal,Umarkhed,Kalambula
+327,Yavatmal,Umarkhed,Ganganmal
+328,Yavatmal,Yavatmal,Ratchandana
+329,Yavatmal,Yavatmal,Lasina
+330,Yavatmal,Yavatmal,Ramnagar
+331,Yavatmal,Yavatmal,Saikheda Kh
+332,Yavatmal,Yavatmal,Dhanora
